@@ -6,4 +6,3 @@ Credit risk prediction competition focusing on financial risk control innovation
 Heart Failure Prediction Challenge(Top 10%)
 Multi-modal data fusion challenge with innovative clustering-based solution
 Bike Sharing Demand (Top 5%)
-Cardiovascular disease prediction competition leveraging AI-driven medical diagnosis
